@@ -35,6 +35,7 @@ My personal dot files
 ├── stylelint.vscode-stylelint-1.2.2
 ├── threespot.frontline-sass-snippets-1.0.1
 ├── tomoki1207.pdf-1.2.0
+├── vunguyentuan.vscode-css-variables-2.3.6
 ├── wallabyjs.quokka-vscode-1.0.451
 └── wordpresstoolbox.wordpress-toolbox-1.3.12
 ```
