@@ -1,0 +1,36 @@
+{
+  "vscode-neovim.neovimInitVimPaths.darwin": "/Users/masato/.config/nvim/init.vim",
+  "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/Cellar/neovim/0.6.1/bin/nvim",
+  "workbench.list.automaticKeyboardNavigation": false,
+  "editor.formatOnSave": true,
+  "editor.scrollBeyondLastLine": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+  },
+  "prettier.configPath": ".prettierrc.json",
+  "prettier.requireConfig": true,
+  "scss.validate": false,
+  "stylelint.configFile": ".stylelintrc.json",
+  "stylelint.validate": ["css", "scss"],
+  "stylelint.snippet": ["css", "scss"],
+  "editor.minimap.enabled": false,
+  "linthtml.configFile": ".linthtmlrc.json",
+  "html.hover.references": false,
+  "css.hover.references": false,
+  "scss.hover.references": false,
+  "less.hover.references": false,
+  "scss.hover.documentation": false,
+  "html.hover.documentation": false,
+  "css.hover.documentation": false,
+  "less.hover.documentation": false,
+  "vscode-neovim.mouseSelectionStartVisualMode": true,
+  "intelephense.diagnostics.undefinedFunctions": false,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "linthtml.enable": false,
+  "explorer.compactFolders": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.zoomLevel": 1
+}
