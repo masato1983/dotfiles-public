@@ -127,4 +127,9 @@ call plug#end()
 
 - [vim-plug](https://github.com/junegunn/vim-plug)
 
+### Vim Plugin
 
+- [vim-commentary](https://github.com/tpope/vim-commentary)
+
+
+## zsh
