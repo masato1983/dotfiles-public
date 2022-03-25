@@ -123,9 +123,7 @@ Plug 'tpope/vim-commentary'
 call plug#end()
 ```
 
-### plugin
-
-Vim Plugin managersのインストール
+### Vim Plugin managers
 
 - [vim-plug](https://github.com/junegunn/vim-plug)
 
