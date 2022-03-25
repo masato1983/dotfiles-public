@@ -39,3 +39,35 @@ My personal dot files
 ├── wallabyjs.quokka-vscode-1.0.451
 └── wordpresstoolbox.wordpress-toolbox-1.3.12
 ```
+
+## Homebrew
+
+### cask list
+
+```
+/usr/local/Caskroom
+├── 1password
+├── adobe-creative-cloud
+├── aerial
+├── amazon-workdocs-drive
+├── amazon-workspaces
+├── atom
+├── brave-browser
+├── cmd-eikana
+├── deepl
+├── discord
+├── firefox
+├── gitkraken
+├── google-chrome
+├── iterm2
+├── local
+├── mamp
+├── microsoft-auto-update
+├── microsoft-edge
+├── ogdesign-eagle
+├── rectangle
+├── transmit
+├── visual-studio-code
+├── zeplin
+└── zoom
+```
