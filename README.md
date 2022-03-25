@@ -65,6 +65,7 @@ My personal dot files
 ├── microsoft-auto-update
 ├── microsoft-edge
 ├── ogdesign-eagle
+├── polypane
 ├── rectangle
 ├── transmit
 ├── visual-studio-code
