@@ -105,6 +105,8 @@ My personal dot files
 
 ## NeoVim
 
+### ~/.config/nvim/init.vim
+
 ```
 set shell=/bin/zsh
 set shiftwidth=4
@@ -120,3 +122,11 @@ call plug#begin()
 Plug 'tpope/vim-commentary'
 call plug#end()
 ```
+
+### plugin
+
+Vim Plugin managersのインストール
+
+- [vim-plug](https://github.com/junegunn/vim-plug)
+
+
