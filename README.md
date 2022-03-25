@@ -71,3 +71,34 @@ My personal dot files
 ├── zeplin
 └── zoom
 ```
+
+### formulae list
+
+```
+/usr/local/Cellar
+├── ca-certificates
+├── commitizen
+├── fzf
+├── gdbm
+├── gettext
+├── gh
+├── libevent
+├── libtermkey
+├── libuv
+├── luajit-openresty
+├── luv
+├── mpdecimal
+├── msgpack
+├── ncurses
+├── neovim
+├── openssl@1.1
+├── python@3.10
+├── readline
+├── sqlite
+├── tmux
+├── tree
+├── tree-sitter
+├── unibilium
+├── utf8proc
+└── xz
+```
