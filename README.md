@@ -134,3 +134,12 @@ call plug#end()
 
 
 ## zsh
+
+
+## Chrome bookmark
+- [Lint Images](https://ausi.github.io/respimagelint/)
+- [W3C Markup Validation Service](https://validator.w3.org/)
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- [Test your structured data](https://developers.google.com/search/docs/advanced/structured-data)
+- [HTML5 入れ子チートシート](https://yoshikawaweb.com/element/)
+- [browsing environment](https://env.mount.jp/)
