@@ -143,6 +143,7 @@ call plug#end()
 - [Test your structured data](https://developers.google.com/search/docs/advanced/structured-data)
 - [HTML5 入れ子チートシート](https://yoshikawaweb.com/element/)
 - [browsing environment](https://env.mount.jp/)
+- [squoosh](https://squoosh.app/)
 
 ## Browser extension
 - [eagle](https://env.mount.jp/)
