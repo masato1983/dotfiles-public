@@ -32,5 +32,6 @@
   "linthtml.enable": false,
   "explorer.compactFolders": false,
   "liveServer.settings.donotShowInfoMsg": true,
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "editor.snippetSuggestions": "top"
 }
