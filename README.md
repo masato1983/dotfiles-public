@@ -67,6 +67,7 @@ My personal dot files
 ├── ogdesign-eagle
 ├── polypane
 ├── rectangle
+├── slack
 ├── transmit
 ├── visual-studio-code
 ├── zeplin
