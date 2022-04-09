@@ -28,6 +28,7 @@ My personal dot files
 ├── glenn2223.live-sass-5.3.0
 ├── jakewilson.vscode-placeholder-images-0.1.0
 ├── kamikillerto.vscode-linthtml-0.6.2
+├── keno.uikit-3-snippets-1.4.4
 ├── mdickin.markdown-shortcuts-0.12.0
 ├── mkxml.vscode-filesize-3.1.0
 ├── natqe.reload-0.0.6
