@@ -33,5 +33,7 @@
   "explorer.compactFolders": false,
   "liveServer.settings.donotShowInfoMsg": true,
   "window.zoomLevel": 1,
-  "editor.snippetSuggestions": "top"
+  "editor.snippetSuggestions": "top",
+  "files.insertFinalNewline": true,
+  "editor.suggestSelection": "recentlyUsed"
 }
