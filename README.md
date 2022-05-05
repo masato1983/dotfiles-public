@@ -56,6 +56,7 @@ My personal dot files
 ├── cmd-eikana
 ├── deepl
 ├── discord
+├── figma
 ├── firefox
 ├── gitkraken
 ├── google-chrome
@@ -80,7 +81,6 @@ My personal dot files
 /usr/local/Cellar
 ├── ca-certificates
 ├── commitizen
-├── figma
 ├── fzf
 ├── gdbm
 ├── gettext
