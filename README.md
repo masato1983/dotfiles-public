@@ -4,6 +4,8 @@ My personal dot files
 ## VSCode
 ### Configuration file path
 
+[Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync)
+
 ```
 ~/Library/Application Support/Code/User/
 ├── keybindings.json
@@ -171,6 +173,7 @@ call plug#end()
     - [zsh-autosuggestions ](https://github.com/zsh-users/zsh-autosuggestions)
     - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
     - [zsh-nvm](https://github.com/lukechilds/zsh-nvm#as-an-oh-my-zsh-custom-plugin)
+
 
 ```
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
