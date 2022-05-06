@@ -162,6 +162,15 @@ call plug#end()
 
 - [vim-commentary](https://github.com/tpope/vim-commentary)
 
+Installation command
+
+```
+mkdir -p ~/.config/nvim/pack/tpope/start
+cd ~/.config/nvim/pack/tpope/start
+git clone https://tpope.io/vim/commentary.git
+vim -u NONE -c "helptags commentary/doc" -c q
+```
+
 
 ## zsh
 - [ohmyzsh](https://ohmyz.sh/#install)
